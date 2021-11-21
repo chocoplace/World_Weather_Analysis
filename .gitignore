@@ -4,9 +4,9 @@ config.py
 #Adding aditional files 
 VacationPy.ipynb
 WeatherPy.ipynb
-API_practice.ipynb
-random_numbers.ipynb
 vacation_search.ipynb
+Vacation_Itinerary.ipynb
+wather_database.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
